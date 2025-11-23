@@ -1,6 +1,6 @@
-# NLP-Fast
+# SCALABLE-NLP
 
-This repository is the software artifacts for the paper entitled 'NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models' published at PACT 2021.
+This repository is the software artifacts for the paper entitled 'SCALABLE-NLP': A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models' published at PACT 2021.
 
 The artifacts consist of three parts: (1) `CPU model` (CPU-version BERT implementation), (2) `GPU model` (GPU-version BERT implementation), and (3) `analysis tool` (various run scripts and analysis tools).
 Please refer to the detailed instructions below.
